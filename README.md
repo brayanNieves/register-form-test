@@ -27,6 +27,17 @@ Este proyecto es un formulario de registro desarrollado en React que cumple con 
    - Se muestra un `alert()` con los datos del formulario en JSON.
    - Se muestra un mensaje de éxito si todo fue correcto.
 
+## Capturas de Pantalla
+
+### Formulario principal
+![Formulario](./screenshots/form.png)
+
+### Validaciones en tiempo real
+![Validations](./screenshots/validations.png)
+
+### Confirmación
+![Validations](./screenshots/confirmation.png)
+
 ## Cómo ejecutar
 
 ```bash
